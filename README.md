@@ -31,7 +31,9 @@ Django 3.2.16
   python3.11 -m pip install --upgrade pip
 ```
 ### 5. Установка зависимостей:
-  pip install -r requirements.txt  
+```
+  pip install -r requirements.txt
+```
 ### 6. Перейти в папку проекта и запустить его:
 ```
   ./manage.py migrate  
