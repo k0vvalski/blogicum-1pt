@@ -3,7 +3,6 @@
 ## Блогикум (2 часть) <- https://github.com/k0vvalski/blogicum-2pt;
 ## Блогикум (3 часть) <- https://github.com/k0vvalski/blogicum-3pt;
 ## Другие проекты (Яндекс Backend):
-### CRUD для Yatube <- https://github.com/k0vvalski/api_yatube-module6;
 ### API для Yatube <- https://github.com/k0vvalski/api_final_yatube-module7.
 
 Блогикум — это дом для творческих людей. Это — сообщество людей, для которых нет грани между ведением блога и дружбой в социальных сетях.
