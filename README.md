@@ -43,8 +43,8 @@ Django 3.2.16
 ```
 ### 6. Перейти в папку проекта и запустить его:
 ```
-  ./manage.py migrate  
-  ./manage.py runserver
+  python3.11 blogicum/manage.py migrate  
+  python3.11 blogicum/manage.py runserver
 ```
 ### 7. Перейти на локальный сервер:
 ```
