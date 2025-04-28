@@ -40,9 +40,10 @@ Django 3.2.16
 ```
   pip install -r requirements.txt
 ```
-### 6. Перейти в папку проекта и запустить его:
+### 6. Перейти в папку проекта и запустить его, предварительно создав суперпользователя:
 ```
-  python3.11 blogicum/manage.py migrate  
+  python3.11 blogicum/manage.py migrate
+  python3.11 blogicum/manage.py createsuperuser
   python3.11 blogicum/manage.py runserver
 ```
 ### 7. Перейти на локальный сервер:
